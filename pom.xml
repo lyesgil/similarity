@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <scala.version>2.10.5</scala.version>
+        <scala.version>2.13.1</scala.version>
         <mahout.version>0.13.0</mahout.version>
         <spark.version>1.6.3</spark.version>
     </properties>
